@@ -1,0 +1,9 @@
+# Python dependencies for the Expense Tracker backend
+# Install with: pip install -r requirements.txt
+
+# Flask — lightweight web framework
+Flask==3.0.3
+
+# Flask-CORS — enables Cross-Origin Resource Sharing so the browser
+# frontend can call the API even when served from a different origin
+Flask-Cors==4.0.1
